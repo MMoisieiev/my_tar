@@ -1,5 +1,0 @@
-https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview
-https://code.visualstudio.com/docs/remote/wsl
-
-There are three types of people in the world:
-Those who can count and those who can’t.
